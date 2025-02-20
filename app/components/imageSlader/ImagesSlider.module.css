@@ -1,0 +1,13 @@
+.slider-container {
+    width: 250px;
+    /* Ширина блока */
+    margin: auto;
+    /* Центрирование */
+}
+
+.slider-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    /* Обрезка по размеру */
+}
