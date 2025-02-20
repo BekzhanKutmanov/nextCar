@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
-import ImageSliders from "../imageSlader/imageSliders";
+import ImageSliders from "../imageSlader/ImageSliders";
+// import ImageSliders from "../imageSlader/imageSliders";
 import { useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import FavoriteButton from "../favoriteButton/FavoriteButton";
